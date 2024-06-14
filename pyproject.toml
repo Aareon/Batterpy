@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "batterpy"
 version = "0.1.0"
-description = ""
+description = "Application for viewing Windows laptop battery health with visualizations. Based on matplotlib, tkinter, and the powercfg command."
 authors = ["Aareon Sullivan <askully@amazon.com>"]
 license = "MIT"
 readme = "README.md"
